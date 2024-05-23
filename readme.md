@@ -1,3 +1,5 @@
+https://www.linkedin.com/posts/bhavyachawla_healthcareanalytics-powerbi-datavisualization-activity-7194304745119920128-Z2h8?utm_source=share&utm_medium=member_desktop
+
 ### Project Goals
 1. Track current status of patient waiting list  
 2. Analyze historical monthly trend of waiting list in Inpatient & Outpatient categories  
