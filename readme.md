@@ -9,4 +9,6 @@
 2. Current Total Wait List  
 ### Views Required
 1. Summary Page  
-2. Detailed Page for Granular Analysis  
+2. Detailed Page for Granular Analysis
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7194304744637538305" height="553" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
