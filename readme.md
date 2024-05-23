@@ -1,4 +1,5 @@
-https://www.linkedin.com/posts/bhavyachawla_healthcareanalytics-powerbi-datavisualization-activity-7194304745119920128-Z2h8?utm_source=share&utm_medium=member_desktop
+[![LinkedIn Post]([https://media.licdn.com/dms/image/D5612AQE99aPx_Set7w/article-inline_image-shrink_1500_2232/0/1715249409561?e=1721865600&v=beta&t=FgL3E8ygTKwZYQMh-KwnPvviLpohPa42MGXQjo1H0Bs)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7194304744637538305)
+
 
 ### Project Goals
 1. Track current status of patient waiting list  
