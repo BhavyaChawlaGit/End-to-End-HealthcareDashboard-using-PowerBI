@@ -1,3 +1,5 @@
+Access the full article below:
+
 [![LinkedIn Post](https://media.licdn.com/dms/image/D5612AQE99aPx_Set7w/article-inline_image-shrink_1500_2232/0/1715249409561?e=1721865600&v=beta&t=FgL3E8ygTKwZYQMh-KwnPvviLpohPa42MGXQjo1H0Bs)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7194304744637538305)
 
 
@@ -13,5 +15,3 @@
 ### Views Required
 1. Summary Page  
 2. Detailed Page for Granular Analysis
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7194304744637538305" height="553" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
