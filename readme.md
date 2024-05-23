@@ -1,4 +1,4 @@
-Access the full article below:
+Access the full article by clicking on the image:
 
 [![LinkedIn Post](https://media.licdn.com/dms/image/D5612AQE99aPx_Set7w/article-inline_image-shrink_1500_2232/0/1715249409561?e=1721865600&v=beta&t=FgL3E8ygTKwZYQMh-KwnPvviLpohPa42MGXQjo1H0Bs)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7194304744637538305)
 
